@@ -1,0 +1,7 @@
+predicate	count
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type	1
+https://schema.org/contentUrl	1
+https://schema.org/description	1
+https://schema.org/encodingFormat	1
+https://schema.org/name	1
+https://schema.org/sha256	1

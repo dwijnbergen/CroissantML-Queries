@@ -1,0 +1,7 @@
+predicate	count
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type	124138
+http://mlcommons.org/croissant/dataType	124138
+http://mlcommons.org/croissant/source	124138
+https://schema.org/description	124138
+https://schema.org/name	124138
+http://mlcommons.org/croissant/repeated	4356
